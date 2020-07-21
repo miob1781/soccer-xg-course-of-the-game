@@ -5,8 +5,8 @@ I have explored how the course of a soccer match influences the relation of the 
 Here is the paper:
 
 The code (in Python) consists of five notebooks:
-- the web scraper for the data from weltfussball.de:
-- the data from weltfussball.de are merged with the data from FiveThirtyEight:
-- analysis of these data:
-- download of the data from statsbomb:
-- analysis of the data from statsbomb:
+- the web scraper for the data from weltfussball.de: weltfussball_data
+- the data from weltfussball.de are merged with the data from FiveThirtyEight: spi_plus
+- analysis of these data: weltfussball_analysis
+- download of the data from statsbomb: statsbomb_data
+- analysis of the data from statsbomb: statsbomb_analysis
